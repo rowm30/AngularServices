@@ -1,5 +1,5 @@
 export class LoggingService{
     logStatusChange(status: string){
-        console.log('A server status changed, new status: Babu ' + status);
+        console.log('A server status changed, new status: BUBU ' + status);
     }
 }
